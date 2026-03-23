@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **raghavshrimali2002@gmail.com**
 
-- 📄 Know about my experiences [• Solved 206+ Data Structures & Algorithms problems • Strong grasp of arrays, strings, recursion, trees, and hashing • Improved logical thinking and optimized solution approaches](• Solved 251+ Data Structures & Algorithms problems • Strong grasp of arrays, strings, recursion, trees, and hashing • Improved logical thinking and optimized solution approaches)
+- 📄 Know about my experiences [• Solved 253+ Data Structures & Algorithms problems • Strong grasp of arrays, strings, recursion, trees, and hashing • Improved logical thinking and optimized solution approaches](• Solved 251+ Data Structures & Algorithms problems • Strong grasp of arrays, strings, recursion, trees, and hashing • Improved logical thinking and optimized solution approaches)
 
 - ⚡ Fun fact **I prefer writing clean, readable code over quick hacks.**
 
